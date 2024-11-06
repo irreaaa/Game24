@@ -1,0 +1,14 @@
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\obj\Debug\net8.0\ConsoleAppIraGame24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\obj\Debug\net8.0\ConsoleAppIraGame24.AssemblyInfoInputs.cache
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\obj\Debug\net8.0\ConsoleAppIraGame24.AssemblyInfo.cs
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\obj\Debug\net8.0\ConsoleAppIraGame24.csproj.CoreCompileInputs.cache
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\bin\Debug\net8.0\ConsoleAppIraGame24.exe
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\bin\Debug\net8.0\ConsoleAppIraGame24.deps.json
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\bin\Debug\net8.0\ConsoleAppIraGame24.runtimeconfig.json
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\bin\Debug\net8.0\ConsoleAppIraGame24.dll
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\bin\Debug\net8.0\ConsoleAppIraGame24.pdb
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\obj\Debug\net8.0\ConsoleAppIraGame24.dll
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\obj\Debug\net8.0\refint\ConsoleAppIraGame24.dll
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\obj\Debug\net8.0\ConsoleAppIraGame24.pdb
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\obj\Debug\net8.0\ConsoleAppIraGame24.genruntimeconfig.cache
+C:\Users\prdb\source\repos\ConsoleAppIraGame24\ConsoleAppIraGame24\obj\Debug\net8.0\ref\ConsoleAppIraGame24.dll
